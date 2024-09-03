@@ -11,9 +11,9 @@ license: AGPLv3
 # TODO
 date: 2021-03-30
 
-homepage: https://github.com/berrystephenw/OctoText
-source: https://github.com/berrystephenw/OctoText
-archive: "https://github.com/berrystephenw/OctoText/archive/refs/heads/main.zip"
+homepage: https://github.com/OctoText/OctoText
+source: https://github.com/OctoText/OctoText
+archive: "https://github.com/OctoText/OctoText/archive/refs/heads/main.zip"
 
 # TODO
 # Set this to true if your plugin uses the dependency_links setup parameter to include
@@ -158,13 +158,13 @@ The only error case that we cannot detect easily is a bad destination address of
 
 Some email services such as gmail and yahoo require an "app" password that you will need to use
 in order to login to the account. Check your email provider to see how this is done or go to the
-OctoText discussion board for instructions: [FAQ](https://github.com/berrystephenw/OctoText/discussions/1#discussion-3279932)
+OctoText discussion board for instructions: [FAQ](https://github.com/OctoText/OctoText/discussions/1#discussion-3279932)
 
 (1) [https://en.wikipedia.org/wiki/SMS_gateway](https://en.wikipedia.org/wiki/SMS_gateway)
 
 # Problems?
 If you are having trouble with your setup, you can post on the discussion board and I'll get to your question as soon as I can.
 Please include a copy of the octoprint log from the logging menu of octoprint.
-[https://github.com/berrystephenw/OctoText/discussions](https://github.com/berrystephenw/OctoText/discussions)
+[https://github.com/OctoText/OctoText/discussions](https://github.com/OctoText/OctoText/discussions)
 
 <img width="128" alt="OctoText" src="/assets/img/plugins/OctoText/iconfinder_13_1236350.png">
